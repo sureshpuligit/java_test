@@ -1,5 +1,9 @@
 this is a line 1
 this is aline2
+<<<<<<< HEAD
 this is a line 3
 this is last line
 
+=======
+this is line 3
+>>>>>>> ea9792929f1e2cc5f28cf8258a7395ae7b822abe
